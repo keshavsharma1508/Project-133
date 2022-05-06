@@ -1,0 +1,11 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: blue;
+    font-size:30px ;
+}
+a{
+    float: right;
+}

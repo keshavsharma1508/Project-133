@@ -1,0 +1,14 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+a{
+    font-size: 30px !important;
+    width: 400px;
+    border-radius: 30px !important;
+    background-color: lightblue;
+    color: green;
+}
+h1{
+    color: burlywood;
+}
